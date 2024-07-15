@@ -1,0 +1,25 @@
++Finire mockUp
++tabelle cockBurn
++useCase Model
++StateCharts
+
+
+Scadenza: !07/12/2021!
+
+
++scegliere 2 funzionalità per mockup, cockburn, statecharts, sequence diagrams
++activityDiagrams
+
+cosa sono classi di Design
+
+2 e. Definizione delle gerarchie funzionali (solo gruppi “Nuovo Ordinamento”).
+
++testing
+
+
+
+Funzionalità
+- Inserisci Itinerario -> Inserisci Punti di Interesse -> Mappa Interattiva -> ...
+- Visualizza Itinerario 
+- Ricerca -> ricerca degli utenti, ricerca dei sentieri -> ...
+- Visualizza profilo di un utente -> visualizzare gli itinerari -> visualizzare la compilation -> foto caricate -> ...

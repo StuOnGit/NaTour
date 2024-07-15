@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_add_path.xml" value="0.36684782608695654" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_add_path_manualy.xml" value="0.3125" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_add_path_with_gpx.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_add_photo_to_path.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_add_point_of_interest.xml" value="0.21875" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_add_sights_by_external_user.xml" value="0.10462962962962963" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_insert_path_map.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_path.xml" value="0.33" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_paths_of_compilation.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_profile_searched.xml" value="0.1" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_see_map.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/activity_verify.xml" value="0.36684782608695654" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/add_compilation_dialog.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/add_point_of_interest_dialog.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/add_review_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/app_toolbar.xml" value="0.36684782608695654" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/choose_file_dialog.xml" value="0.36277173913043476" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/fragment_account.xml" value="0.25" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/fragment_container.xml" value="0.36684782608695654" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/fragment_home.xml" value="0.36684782608695654" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/fragment_search.xml" value="0.36684782608695654" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/fragment_users_tab.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/loading_dialog.xml" value="0.36684782608695654" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/path_card.xml" value="0.18819655521783182" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/photo_card.xml" value="0.1111111111111111" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/review_card.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/layout/review_dialog.xml" value="0.18819655521783182" />
+        <entry key="..\:/Users/39366/Desktop/progetto1/NaTour/bin/app/src/main/res/menu/bottom_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/drawable-v24/ic_account_black.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/layout/acitivty_register.xml" value="0.25" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/layout/activity_start.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/layout/fragment_account.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/layout/fragment_container.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/layout/fragment_plus.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/layout/fragment_search.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/menu/main_menu.xml" value="0.246875" />
+        <entry key="..\:/Users/Francesco/Desktop/MyApplication/app/src/main/res/menu/menu.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour/bin/app/src/main/res/layout/acitivty_register.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour/bin/app/src/main/res/layout/activity_login.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour/bin/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour/bin/app/src/main/res/layout/activity_register.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour/bin/app/src/main/res/layout/activity_start.xml" value="0.25" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour/bin/app/src/main/res/layout/fragment_home.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable-v24/ic_account_black.xml" value="0.221875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable-v24/ic_dashboard_black.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable-v24/ic_home_black.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable-v24/ic_logo_background.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable-v24/ic_plus_black.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable/ic_baseline_accessible_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.221875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable/round_button.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable/round_dialog.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable/round_search.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable/transparent_background.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/drawable/wave.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/actiivty_welcome.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_add_path.xml" value="0.2296875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_add_path_manualy.xml" value="0.335" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_add_path_with_gpx.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_insert_path_map.xml" value="0.335" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_login.xml" value="0.335" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_main2.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_path.xml" value="0.335" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_register.xml" value="0.375" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_see_map.xml" value="0.45" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_start.xml" value="0.335" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/activity_verify.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/add_compilation_dialog.xml" value="0.2296875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/app_toolbar.xml" value="0.25" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/choose_file_dialog.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/compilation_card.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/custom_dialog.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/error_dialog.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/filter_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/fragment_account.xml" value="0.1" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/fragment_compilation.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/fragment_container.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/fragment_paths_tab.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/fragment_plus.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/fragment_recensioni.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/fragment_review.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/fragment_search.xml" value="0.335" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/fragment_users_tab.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/list_item.xml" value="0.3109375" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/loading_dialog.xml" value="0.1421875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/path_card.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/review_card.xml" value="0.375" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/review_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/search_result_card.xml" value="0.1" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/layout/world_tour.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/menu/bottom_menu.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/menu/main_menu.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/menu/menu.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/menu/search_menu.xml" value="0.3671875" />
+        <entry key="..\:/Users/Francesco/Desktop/NaTour2.0/bin/app/src/main/res/menu/top_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

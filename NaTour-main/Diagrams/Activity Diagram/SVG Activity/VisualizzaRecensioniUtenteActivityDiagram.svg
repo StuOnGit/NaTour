@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="698px"
+   height="452px"
+   viewBox="-0.5 -0.5 698 452"
+   animation="{&quot;scriptArr&quot;:[]}"
+   content="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20YGZI8c"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg8957"
+   sodipodi:docname="VisualizzaRecensioniUtenteActivityDiagram.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8959"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.713467"
+     inkscape:cx="349.29181"
+     inkscape:cy="86.082776"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8957" />
+  <defs
+     id="defs8841">
+    <style
+       type="text/css"
+       id="style8837">ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+</style>
+    <style
+       type="text/css"
+       id="style8839">@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+</style>
+  </defs>
+  <g
+     id="g8947">
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-1"
+       x="1"
+       y="1"
+       width="696"
+       height="450"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect8843" />
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-2"
+       x="1"
+       y="1"
+       width="349"
+       height="18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect8845" />
+    <g
+       cell-id="sfsmkrZyhEMc6rAei78U-2"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g8849">
+      <text
+         cell-id="sfsmkrZyhEMc6rAei78U-2"
+         x="175"
+         y="14.5"
+         id="text8847">Utente </text>
+    </g>
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-3"
+       x="350"
+       y="1"
+       width="347"
+       height="18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect8851" />
+    <g
+       cell-id="sfsmkrZyhEMc6rAei78U-3"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g8855">
+      <text
+         cell-id="sfsmkrZyhEMc6rAei78U-3"
+         x="523"
+         y="14.5"
+         id="text8853">Sistema</text>
+    </g>
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-4"
+       x="1"
+       y="19"
+       width="349"
+       height="432"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect8857" />
+    <ellipse
+       cell-id="sfsmkrZyhEMc6rAei78U-5"
+       cx="49.69"
+       cy="64.2"
+       rx="13.2"
+       ry="13.2"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse8859" />
+    <ellipse
+       cell-id="sfsmkrZyhEMc6rAei78U-5"
+       cx="49.69"
+       cy="64.2"
+       rx="13.2"
+       ry="13.2"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse8861" />
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-6"
+       x="84"
+       y="112"
+       width="211"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect8863" />
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-6"
+       x="84"
+       y="112"
+       width="211"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect8865" />
+    <g
+       cell-id="sfsmkrZyhEMc6rAei78U-6"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g8869">
+      <text
+         cell-id="sfsmkrZyhEMc6rAei78U-6"
+         x="189"
+         y="136.5"
+         id="text8867">Clicca su &quot;Button Profilo Utente&quot;</text>
+    </g>
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-7"
+       d="M 62.89 64.2 L 180 64.2 Q 190 64.2 190 74.2 L 190 109.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path8871" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-7"
+       d="M 184 98.88 L 190 110.88 L 196 98.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path8873" />
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-8"
+       x="150"
+       y="229"
+       width="79"
+       height="70"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect8875" />
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-8"
+       x="150"
+       y="229"
+       width="79"
+       height="70"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect8877" />
+    <g
+       cell-id="sfsmkrZyhEMc6rAei78U-8"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g8885">
+      <text
+         cell-id="sfsmkrZyhEMc6rAei78U-8"
+         x="189"
+         y="254.5"
+         id="text8879">Clicca</text>
+      <text
+         cell-id="sfsmkrZyhEMc6rAei78U-8"
+         x="189"
+         y="268.5"
+         id="text8881">Tab</text>
+      <text
+         cell-id="sfsmkrZyhEMc6rAei78U-8"
+         x="189"
+         y="282.5"
+         id="text8883">Recensioni</text>
+    </g>
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-9"
+       x="350"
+       y="19"
+       width="347"
+       height="432"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect8887" />
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-10"
+       x="389.01"
+       y="112"
+       width="189"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect8889" />
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-10"
+       x="389.01"
+       y="112"
+       width="189"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect8891" />
+    <g
+       cell-id="sfsmkrZyhEMc6rAei78U-10"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g8895">
+      <text
+         cell-id="sfsmkrZyhEMc6rAei78U-10"
+         x="483.01"
+         y="136.5"
+         id="text8893">Apre schermata &quot;Profilo Utente&quot;</text>
+    </g>
+    <ellipse
+       cell-id="sfsmkrZyhEMc6rAei78U-11"
+       cx="506"
+       cy="431"
+       rx="6.666666666666667"
+       ry="6.666666666666667"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse8897" />
+    <ellipse
+       cell-id="sfsmkrZyhEMc6rAei78U-11"
+       cx="506"
+       cy="431"
+       rx="10"
+       ry="10"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse8899" />
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-12"
+       x="456"
+       y="318"
+       width="99.99"
+       height="61"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect8901" />
+    <rect
+       cell-id="sfsmkrZyhEMc6rAei78U-12"
+       x="456"
+       y="318"
+       width="99.99"
+       height="61"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect8903" />
+    <g
+       cell-id="sfsmkrZyhEMc6rAei78U-12"
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       font-size="12px"
+       id="g8909">
+      <text
+         cell-id="sfsmkrZyhEMc6rAei78U-12"
+         x="463.5"
+         y="335.5"
+         id="text8905">Visualizza</text>
+      <text
+         cell-id="sfsmkrZyhEMc6rAei78U-12"
+         x="463.5"
+         y="349.5"
+         id="text8907">Recensioni</text>
+    </g>
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-13"
+       d="M 505.99 379 L 505.99 418.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path8911" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-13"
+       d="M 499.99 407.88 L 505.99 419.88 L 511.99 407.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path8913" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-14"
+       d="M 295 132 L 386.77 132"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path8915" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-14"
+       d="M 375.89 138 L 387.89 132 L 375.89 126"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path8917" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-15"
+       d="M 229 299 L 496 299 Q 506 299 506 307.38 L 506 315.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path8919" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-15"
+       d="M 500 304.88 L 506 316.88 L 512 304.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path8921" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-16"
+       d="M 578.01 132 L 624 132 Q 634 132 634 142 L 634 186 Q 634 196 624 196 L 194 196 Q 184 196 184 206 L 184 226.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path8923" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-16"
+       d="M 178 215.88 L 184 227.88 L 190 215.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path8925" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-7"
+       d="M 62.89 64.2 L 180 64.2 Q 190 64.2 190 74.2 L 190 109.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path8927" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-7"
+       d="M 184 98.88 L 190 110.88 L 196 98.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path8929" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-13"
+       d="M 505.99 379 L 505.99 418.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path8931" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-13"
+       d="M 499.99 407.88 L 505.99 419.88 L 511.99 407.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path8933" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-14"
+       d="M 295 132 L 386.77 132"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path8935" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-14"
+       d="M 375.89 138 L 387.89 132 L 375.89 126"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path8937" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-15"
+       d="M 229 299 L 496 299 Q 506 299 506 307.38 L 506 315.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path8939" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-15"
+       d="M 500 304.88 L 506 316.88 L 512 304.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path8941" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-16"
+       d="M 578.01 132 L 624 132 Q 634 132 634 142 L 634 186 Q 634 196 624 196 L 194 196 Q 184 196 184 206 L 184 226.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path8943" />
+    <path
+       cell-id="sfsmkrZyhEMc6rAei78U-16"
+       d="M 178 215.88 L 184 227.88 L 190 215.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path8945" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
+     x="4.7525082"
+     y="-12.172241"
+     id="text10795"><tspan
+       sodipodi:role="line"
+       id="tspan10793"
+       x="4.7525082"
+       y="-12.172241">Visualizza Recensioni Activity Diagram</tspan><tspan
+       sodipodi:role="line"
+       x="4.7525082"
+       y="4.4943833"
+       id="tspan10797" /></text>
+</svg>

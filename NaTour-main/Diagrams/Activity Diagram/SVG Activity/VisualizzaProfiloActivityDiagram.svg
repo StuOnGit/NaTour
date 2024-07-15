@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1041px"
+   height="774px"
+   viewBox="-0.5 -0.5 1041 774"
+   animation="{&quot;scriptArr&quot;:[]}"
+   content="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15ptW174"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg3976"
+   sodipodi:docname="VisualizzaProfiloActivityDiagram.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3978"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.0736434"
+     inkscape:cx="520.19134"
+     inkscape:cy="88.949458"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3976" />
+  <defs
+     id="defs3698">
+    <style
+       type="text/css"
+       id="style3694">ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+</style>
+    <style
+       type="text/css"
+       id="style3696">@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+</style>
+  </defs>
+  <g
+     id="g3966">
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-1"
+       x="1"
+       y="1"
+       width="1038.68"
+       height="772"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect3700" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-2"
+       x="1"
+       y="1"
+       width="486.99"
+       height="18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect3702" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-2"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3706">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-2"
+         x="243.99"
+         y="14.5"
+         id="text3704">Utente </text>
+    </g>
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-3"
+       x="487.99"
+       y="1"
+       width="551.69"
+       height="18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect3708" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-3"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3712">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-3"
+         x="763.33"
+         y="14.5"
+         id="text3710">Sistema</text>
+    </g>
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-4"
+       x="1"
+       y="19"
+       width="486.99"
+       height="754"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect3714" />
+    <ellipse
+       cell-id="BtbjzGuUoWMjjNGl3SDO-5"
+       cx="49.69"
+       cy="64.2"
+       rx="13.2"
+       ry="13.2"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse3716" />
+    <ellipse
+       cell-id="BtbjzGuUoWMjjNGl3SDO-5"
+       cx="49.69"
+       cy="64.2"
+       rx="13.2"
+       ry="13.2"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse3718" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-6"
+       x="84"
+       y="112"
+       width="211"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3720" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-6"
+       x="84"
+       y="112"
+       width="211"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3722" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-6"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3726">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-6"
+         x="189"
+         y="136.5"
+         id="text3724">Clicca su &quot;Button Profilo Utente&quot;</text>
+    </g>
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-7"
+       d="M 62.89 64.2 L 180 64.2 Q 190 64.2 190 74.2 L 190 109.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3728" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-7"
+       d="M 184 98.88 L 190 110.88 L 196 98.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3730" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-22"
+       d="M 737 152 L 737 192 Q 737 202 727 202 L 539.5 202 Q 529.5 202 519.5 202 L 253 202 Q 243 202 243 212 L 243 224.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3732" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-22"
+       d="M 237 213.88 L 243 225.88 L 249 213.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3734" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-32"
+       d="M 264.5 233 L 419 233 L 419 295.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3736" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-32"
+       d="M 414.5 287.88 L 419 296.88 L 423.5 287.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3738" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-21"
+       d="M 243.25 226.5 L 256.5 233 L 243.25 239.5 L 230 233 Z"
+       fill="#7acff5"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3740" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-21"
+       d="M 243.25 226.5 L 256.5 233 L 243.25 239.5 L 230 233 Z"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3742" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-33"
+       d="M 222 233 L 73 233 L 73.17 297.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3744" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-33"
+       d="M 68.65 289.89 L 73.18 298.88 L 77.65 289.87"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3746" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-34"
+       d="M 231.38 247.5 L 208.05 297.97"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3748" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-34"
+       d="M 207.27 288.93 L 207.58 298.99 L 215.44 292.7"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3750" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-35"
+       d="M 255.26 247.5 L 278.88 297.97"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3752" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-35"
+       d="M 271.46 292.74 L 279.35 298.99 L 279.61 288.93"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3754" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-37"
+       x="38"
+       y="304"
+       width="79"
+       height="70"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3756" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-37"
+       x="38"
+       y="304"
+       width="79"
+       height="70"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3758" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-37"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3766">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-37"
+         x="77"
+         y="329.5"
+         id="text3760">Clicca</text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-37"
+         x="77"
+         y="343.5"
+         id="text3762">Tab</text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-37"
+         x="77"
+         y="357.5"
+         id="text3764">Percorsi</text>
+    </g>
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-38"
+       x="152"
+       y="304"
+       width="75"
+       height="70"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3768" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-38"
+       x="152"
+       y="304"
+       width="75"
+       height="70"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3770" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-38"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3778">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-38"
+         x="189"
+         y="329.5"
+         id="text3772">Clicca </text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-38"
+         x="189"
+         y="343.5"
+         id="text3774">Tab</text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-38"
+         x="189"
+         y="357.5"
+         id="text3776">Compilation</text>
+    </g>
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-39"
+       x="259.5"
+       y="304"
+       width="77.5"
+       height="70"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3780" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-39"
+       x="259.5"
+       y="304"
+       width="77.5"
+       height="70"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3782" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-39"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3790">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-39"
+         x="297.75"
+         y="329.5"
+         id="text3784">Clicca </text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-39"
+         x="297.75"
+         y="343.5"
+         id="text3786">Tab</text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-39"
+         x="297.75"
+         y="357.5"
+         id="text3788">Foto</text>
+    </g>
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-40"
+       x="374"
+       y="304"
+       width="79"
+       height="70"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3792" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-40"
+       x="374"
+       y="304"
+       width="79"
+       height="70"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3794" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-40"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3802">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-40"
+         x="413"
+         y="329.5"
+         id="text3796">Clicca</text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-40"
+         x="413"
+         y="343.5"
+         id="text3798">Tab </text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-40"
+         x="413"
+         y="357.5"
+         id="text3800">Recensioni</text>
+    </g>
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-10"
+       x="487.99"
+       y="19"
+       width="551.69"
+       height="754"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect3804" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-11"
+       x="642.49"
+       y="112"
+       width="189"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3806" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-11"
+       x="642.49"
+       y="112"
+       width="189"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3808" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-11"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3812">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-11"
+         x="736.49"
+         y="136.5"
+         id="text3810">Apre schermata &quot;Profilo Utente&quot;</text>
+    </g>
+    <ellipse
+       cell-id="BtbjzGuUoWMjjNGl3SDO-14"
+       cx="553"
+       cy="730"
+       rx="6.666666666666667"
+       ry="6.666666666666667"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse3814" />
+    <ellipse
+       cell-id="BtbjzGuUoWMjjNGl3SDO-14"
+       cx="553"
+       cy="730"
+       rx="10"
+       ry="10"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse3816" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-44"
+       x="503"
+       y="535"
+       width="99.99"
+       height="61"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3818" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-44"
+       x="503"
+       y="535"
+       width="99.99"
+       height="61"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3820" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-44"
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       font-size="12px"
+       id="g3826">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-44"
+         x="510.5"
+         y="552.5"
+         id="text3822">Visualizza</text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-44"
+         x="510.5"
+         y="566.5"
+         id="text3824">Percorsi</text>
+    </g>
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-42"
+       x="747"
+       y="535"
+       width="100"
+       height="61"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3828" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-42"
+       x="747"
+       y="535"
+       width="100"
+       height="61"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3830" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-42"
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       font-size="12px"
+       id="g3836">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-42"
+         x="754.5"
+         y="552.5"
+         id="text3832">Visualizza </text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-42"
+         x="754.5"
+         y="566.5"
+         id="text3834">Foto</text>
+    </g>
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-41"
+       x="867"
+       y="533"
+       width="99.99"
+       height="63"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3838" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-41"
+       x="867"
+       y="533"
+       width="99.99"
+       height="63"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3840" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-41"
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       font-size="12px"
+       id="g3846">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-41"
+         x="874.5"
+         y="550.5"
+         id="text3842">Visualizza </text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-41"
+         x="874.5"
+         y="564.5"
+         id="text3844">Recensioni</text>
+    </g>
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-43"
+       x="627"
+       y="535"
+       width="99.99"
+       height="61"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3848" />
+    <rect
+       cell-id="BtbjzGuUoWMjjNGl3SDO-43"
+       x="627"
+       y="535"
+       width="99.99"
+       height="61"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect3850" />
+    <g
+       cell-id="BtbjzGuUoWMjjNGl3SDO-43"
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       font-size="12px"
+       id="g3856">
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-43"
+         x="634.5"
+         y="552.5"
+         id="text3852">Visualizza </text>
+      <text
+         cell-id="BtbjzGuUoWMjjNGl3SDO-43"
+         x="634.5"
+         y="566.5"
+         id="text3854">Compilation</text>
+    </g>
+    <ellipse
+       cell-id="BtbjzGuUoWMjjNGl3SDO-60"
+       cx="676.99"
+       cy="730"
+       rx="6.666666666666667"
+       ry="6.666666666666667"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse3858" />
+    <ellipse
+       cell-id="BtbjzGuUoWMjjNGl3SDO-60"
+       cx="676.99"
+       cy="730"
+       rx="10"
+       ry="10"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse3860" />
+    <ellipse
+       cell-id="BtbjzGuUoWMjjNGl3SDO-59"
+       cx="797"
+       cy="730"
+       rx="6.666666666666667"
+       ry="6.666666666666667"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse3862" />
+    <ellipse
+       cell-id="BtbjzGuUoWMjjNGl3SDO-59"
+       cx="797"
+       cy="730"
+       rx="10"
+       ry="10"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse3864" />
+    <ellipse
+       cell-id="BtbjzGuUoWMjjNGl3SDO-58"
+       cx="916.99"
+       cy="730"
+       rx="6.666666666666667"
+       ry="6.666666666666667"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse3866" />
+    <ellipse
+       cell-id="BtbjzGuUoWMjjNGl3SDO-58"
+       cx="916.99"
+       cy="730"
+       rx="10"
+       ry="10"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse3868" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-62"
+       d="M 554 596 L 554.98 712.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3870" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-62"
+       d="M 548.89 701.93 L 554.99 713.88 L 560.89 701.83"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3872" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-63"
+       d="M 678.5 596 L 679.97 715.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3874" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-63"
+       d="M 673.84 704.96 L 679.99 716.88 L 685.84 704.81"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3876" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-64"
+       d="M 797.5 596 L 797.99 714.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3878" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-64"
+       d="M 791.95 703.91 L 798 715.88 L 803.95 703.86"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3880" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-65"
+       d="M 917 596 L 917 714.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3882" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-65"
+       d="M 911 703.88 L 917 715.88 L 923 703.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3884" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-16"
+       d="M 295 132 L 640.25 132"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3886" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-16"
+       d="M 629.37 138 L 641.37 132 L 629.37 126"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3888" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-45"
+       d="M 453 339 L 908 339 Q 918 339 918 349 L 918 533.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3890" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-45"
+       d="M 912 522.88 L 918 534.88 L 924 522.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3892" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-46"
+       d="M 298.3 374 L 298.3 404 Q 298.3 414 308.3 414 L 787 414 Q 797 414 797 424 L 797 532.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3894" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-46"
+       d="M 791 521.88 L 797 533.88 L 803 521.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3896" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-47"
+       d="M 189.5 374 L 189.5 441 Q 189.5 451 199.5 451 L 667 451 Q 677 451 677 461 L 677 532.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3898" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-47"
+       d="M 671 521.88 L 677 533.88 L 683 521.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3900" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-48"
+       d="M 77.5 374 L 77.5 477 Q 77.5 487 87.5 487 L 543 487 Q 553 487 553 497 L 553 532.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3902" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-48"
+       d="M 547 521.88 L 553 533.88 L 559 521.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3904" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-7"
+       d="M 62.89 64.2 L 180 64.2 Q 190 64.2 190 74.2 L 190 109.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3906" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-7"
+       d="M 184 98.88 L 190 110.88 L 196 98.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3908" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-22"
+       d="M 737 152 L 737 192 Q 737 202 727 202 L 539.5 202 Q 529.5 202 519.5 202 L 253 202 Q 243 202 243 212 L 243 224.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3910" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-22"
+       d="M 237 213.88 L 243 225.88 L 249 213.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3912" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-32"
+       d="M 264.5 233 L 419 233 L 419 295.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3914" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-32"
+       d="M 414.5 287.88 L 419 296.88 L 423.5 287.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3916" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-33"
+       d="M 222 233 L 73 233 L 73.17 297.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3918" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-33"
+       d="M 68.65 289.89 L 73.18 298.88 L 77.65 289.87"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3920" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-34"
+       d="M 231.38 247.5 L 208.05 297.97"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3922" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-34"
+       d="M 207.27 288.93 L 207.58 298.99 L 215.44 292.7"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3924" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-35"
+       d="M 255.26 247.5 L 278.88 297.97"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3926" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-35"
+       d="M 271.46 292.74 L 279.35 298.99 L 279.61 288.93"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3928" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-62"
+       d="M 554 596 L 554.98 712.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3930" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-62"
+       d="M 548.89 701.93 L 554.99 713.88 L 560.89 701.83"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3932" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-63"
+       d="M 678.5 596 L 679.97 715.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3934" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-63"
+       d="M 673.84 704.96 L 679.99 716.88 L 685.84 704.81"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3936" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-64"
+       d="M 797.5 596 L 797.99 714.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3938" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-64"
+       d="M 791.95 703.91 L 798 715.88 L 803.95 703.86"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3940" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-65"
+       d="M 917 596 L 917 714.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3942" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-65"
+       d="M 911 703.88 L 917 715.88 L 923 703.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3944" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-16"
+       d="M 295 132 L 640.25 132"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3946" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-16"
+       d="M 629.37 138 L 641.37 132 L 629.37 126"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3948" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-45"
+       d="M 453 339 L 908 339 Q 918 339 918 349 L 918 533.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3950" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-45"
+       d="M 912 522.88 L 918 534.88 L 924 522.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3952" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-46"
+       d="M 298.3 374 L 298.3 404 Q 298.3 414 308.3 414 L 787 414 Q 797 414 797 424 L 797 532.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3954" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-46"
+       d="M 791 521.88 L 797 533.88 L 803 521.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3956" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-47"
+       d="M 189.5 374 L 189.5 441 Q 189.5 451 199.5 451 L 667 451 Q 677 451 677 461 L 677 532.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3958" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-47"
+       d="M 671 521.88 L 677 533.88 L 683 521.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3960" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-48"
+       d="M 77.5 374 L 77.5 477 Q 77.5 487 87.5 487 L 543 487 Q 553 487 553 497 L 553 532.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path3962" />
+    <path
+       cell-id="BtbjzGuUoWMjjNGl3SDO-48"
+       d="M 547 521.88 L 553 533.88 L 559 521.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path3964" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
+     x="2.2942238"
+     y="-13.539711"
+     id="text5748"><tspan
+       sodipodi:role="line"
+       id="tspan5746"
+       x="2.2942238"
+       y="-13.539711">Visualizza Profilo Activity Diagram</tspan></text>
+</svg>

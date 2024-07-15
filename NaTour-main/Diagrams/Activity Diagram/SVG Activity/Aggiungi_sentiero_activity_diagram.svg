@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="731px"
+   height="1447px"
+   viewBox="-0.5 -0.5 731 1447"
+   animation="{&quot;scriptArr&quot;:[]}"
+   content="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12gPV269"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg1530"
+   sodipodi:docname="Aggiungi_sentiero_activity_diagram.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1532"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.2971665"
+     inkscape:cx="196.54648"
+     inkscape:cy="101.21164"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1530" />
+  <defs
+     id="defs1102">
+    <style
+       type="text/css"
+       id="style1098">ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+</style>
+    <style
+       type="text/css"
+       id="style1100">@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+</style>
+  </defs>
+  <g
+     id="g1520">
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-1"
+       x="1"
+       y="1"
+       width="728.55"
+       height="1445"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect1104" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-2"
+       x="1"
+       y="1"
+       width="392.43"
+       height="18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect1106" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-2"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1110">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-2"
+         x="196.72"
+         y="14.5"
+         id="text1108">Utente</text>
+    </g>
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-3"
+       x="393.43"
+       y="1"
+       width="336.12"
+       height="18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect1112" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-3"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1116">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-3"
+         x="560.99"
+         y="14.5"
+         id="text1114">Sistema</text>
+    </g>
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-4"
+       x="1"
+       y="19"
+       width="392.43"
+       height="1427"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect1118" />
+    <ellipse
+       cell-id="pH3RPZTcYMq-4IWurCKD-6"
+       cx="64.35"
+       cy="83.26"
+       rx="9.454807692307693"
+       ry="9.454807692307693"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse1120" />
+    <ellipse
+       cell-id="pH3RPZTcYMq-4IWurCKD-6"
+       cx="64.35"
+       cy="83.26"
+       rx="9.454807692307693"
+       ry="9.454807692307693"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse1122" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-7"
+       x="122"
+       y="110.75"
+       width="106.84"
+       height="57.6"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1124" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-7"
+       x="122"
+       y="110.75"
+       width="106.84"
+       height="57.6"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1126" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-7"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1134">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-7"
+         x="174.92"
+         y="130.05"
+         id="text1128">Clicca</text>
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-7"
+         x="174.92"
+         y="144.05"
+         id="text1130">Bottone </text>
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-7"
+         x="174.92"
+         y="158.05"
+         id="text1132">Aggiungi Itinerario</text>
+    </g>
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-8"
+       d="M 73.8 83.3 L 165.4 83.3 Q 175.4 83.3 175.4 93.3 L 175.4 108.52"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1136" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-8"
+       d="M 169.4 97.63 L 175.4 109.63 L 181.4 97.63"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1138" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-13"
+       d="M 171.66 232.58 L 187.09 243.99 L 171.66 255.4 L 156.22 243.99 Z"
+       fill="#7acff5"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1140" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-13"
+       d="M 171.66 232.58 L 187.09 243.99 L 171.66 255.4 L 156.22 243.99 Z"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1142" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-22"
+       x="282.65"
+       y="481"
+       width="56.73"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1144" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-22"
+       x="282.65"
+       y="481"
+       width="56.73"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1146" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-22"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1152">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-22"
+         x="310.52"
+         y="497.41"
+         id="text1148">Sceglie</text>
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-22"
+         x="310.52"
+         y="511.41"
+         id="text1150">File GPX</text>
+    </g>
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-23"
+       x="68.13"
+       y="957.71"
+       width="121.97"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1154" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-23"
+       x="68.13"
+       y="957.71"
+       width="121.97"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1156" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-23"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1162">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-23"
+         x="128.61"
+         y="974.12"
+         id="text1158">Inserisce</text>
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-23"
+         x="128.61"
+         y="988.12"
+         id="text1160">Percorso  Geografico</text>
+    </g>
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-31"
+       x="282.66"
+       y="696"
+       width="92.66"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1164" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-31"
+       x="282.66"
+       y="696"
+       width="92.66"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1166" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-31"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1170">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-31"
+         x="328.48"
+         y="719.41"
+         id="text1168">Inserisce dati</text>
+    </g>
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-33"
+       x="300.62"
+       y="778.82"
+       width="56.73"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1172" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-33"
+       x="300.62"
+       y="778.82"
+       width="56.73"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1174" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-33"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1178">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-33"
+         x="328.48"
+         y="802.23"
+         id="text1176">Salva</text>
+    </g>
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-34"
+       d="M 329 734 L 329 746.3 Q 329 756.3 328.96 766.3 L 328.91 776.58"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1180" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-34"
+       d="M 322.96 765.68 L 328.9 777.7 L 334.96 765.73"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1182" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-15"
+       x="23"
+       y="300.72"
+       width="117.31"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1184" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-15"
+       x="23"
+       y="300.72"
+       width="117.31"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1186" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-15"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1192">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-15"
+         x="81.15"
+         y="318.22"
+         id="text1188">Preme su Button </text>
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-15"
+         x="81.15"
+         y="332.22"
+         id="text1190">&quot;File GPX&quot;</text>
+    </g>
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-16"
+       x="204.49"
+       y="300.72"
+       width="99.06"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1194" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-16"
+       x="204.49"
+       y="300.72"
+       width="99.06"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1196" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-16"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1202">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-16"
+         x="253.52"
+         y="318.22"
+         id="text1198">Preme su Button </text>
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-16"
+         x="253.52"
+         y="332.22"
+         id="text1200">&quot;Dati&quot;</text>
+    </g>
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-17"
+       d="M 148.22 244 L 81.7 244 L 81.7 290.48"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1204" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-17"
+       d="M 77.2 282.6 L 81.7 291.6 L 86.2 282.6"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1206" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-18"
+       d="M 195.09 244 L 254.1 244 L 254.1 290.48"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1208" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-18"
+       d="M 249.6 282.6 L 254.1 291.6 L 258.6 282.6"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1210" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-57"
+       x="21.44"
+       y="478.82"
+       width="118.87"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1212" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-57"
+       x="21.44"
+       y="478.82"
+       width="118.87"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1214" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-57"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1218">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-57"
+         x="80.38"
+         y="503.32"
+         id="text1216">seleziona Foto</text>
+    </g>
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-75"
+       x="55.12"
+       y="693.82"
+       width="122.69"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1220" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-75"
+       x="55.12"
+       y="693.82"
+       width="122.69"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1222" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-75"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1228">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-75"
+         x="115.96"
+         y="711.32"
+         id="text1224">Preme su button </text>
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-75"
+         x="115.96"
+         y="725.32"
+         id="text1226">Inserisci Percorso</text>
+    </g>
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-83"
+       x="83.26"
+       y="1107"
+       width="103.14"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1230" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-83"
+       x="83.26"
+       y="1107"
+       width="103.14"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1232" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-83"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1236">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-83"
+         x="134.33"
+         y="1131.5"
+         id="text1234">Inserisce i dati</text>
+    </g>
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-84"
+       x="106.47"
+       y="1188.45"
+       width="56.73"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1238" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-84"
+       x="106.47"
+       y="1188.45"
+       width="56.73"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1240" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-84"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1244">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-84"
+         x="134.33"
+         y="1211.86"
+         id="text1242">Salva</text>
+    </g>
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-88"
+       d="M 134.95 1147 L 135 1185.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1246" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-88"
+       d="M 128.98 1174.89 L 135 1186.88 L 140.98 1174.87"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1248" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-5"
+       x="393.43"
+       y="19"
+       width="336.12"
+       height="1427"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect1250" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-9"
+       x="465.23"
+       y="130.53"
+       width="94.55"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1252" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-9"
+       x="465.23"
+       y="130.53"
+       width="94.55"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1254" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-9"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1260">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-9"
+         x="512"
+         y="146.94"
+         id="text1256">Mostra Dialog</text>
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-9"
+         x="512"
+         y="160.94"
+         id="text1258">Di scelta</text>
+    </g>
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-15"
+       x="616"
+       y="389"
+       width="56.73"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1262" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-15"
+       x="616"
+       y="389"
+       width="56.73"
+       height="37.82"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1264" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-15"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1270">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-15"
+         x="643.86"
+         y="405.41"
+         id="text1266">Apre</text>
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-15"
+         x="643.86"
+         y="419.41"
+         id="text1268">Storage</text>
+    </g>
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-35"
+       x="521"
+       y="1309"
+       width="108.73"
+       height="46.33"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1272" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-35"
+       x="521"
+       y="1309"
+       width="108.73"
+       height="46.33"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1274" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-35"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1282">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-35"
+         x="574.87"
+         y="1322.67"
+         id="text1276">Inserisce il nuovo</text>
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-35"
+         x="574.87"
+         y="1336.67"
+         id="text1278">Itinerario</text>
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-35"
+         x="574.87"
+         y="1350.67"
+         id="text1280">nel Database</text>
+    </g>
+    <ellipse
+       cell-id="pH3RPZTcYMq-4IWurCKD-37"
+       cx="575.24"
+       cy="1407.76"
+       rx="8.509326923076923"
+       ry="8.509326923076923"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse1284" />
+    <ellipse
+       cell-id="pH3RPZTcYMq-4IWurCKD-37"
+       cx="575.24"
+       cy="1407.76"
+       rx="12.763990384615385"
+       ry="12.763990384615385"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse1286" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-54"
+       x="444.01"
+       y="386.82"
+       width="93.53"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1288" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-54"
+       x="444.01"
+       y="386.82"
+       width="93.53"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1290" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-54"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1296">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-54"
+         x="490.28"
+         y="404.32"
+         id="text1292">Apre Schermata </text>
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-54"
+         x="490.28"
+         y="418.32"
+         id="text1294">Aggiungi foto</text>
+    </g>
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-60"
+       x="572.13"
+       y="543"
+       width="119.45"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1298" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-60"
+       x="572.13"
+       y="543"
+       width="119.45"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1300" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-60"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1306">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-60"
+         x="631.36"
+         y="560.5"
+         id="text1302">Apre schermata</text>
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-60"
+         x="631.36"
+         y="574.5"
+         id="text1304">Inserisci Dati GPX</text>
+    </g>
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-72"
+       x="418.09"
+       y="583"
+       width="119.45"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1308" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-72"
+       x="418.09"
+       y="583"
+       width="119.45"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1310" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-72"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1316">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-72"
+         x="477.32"
+         y="600.5"
+         id="text1312">Apre schermata</text>
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-72"
+         x="477.32"
+         y="614.5"
+         id="text1314">Inserisci Dati</text>
+    </g>
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-77"
+       x="412.71"
+       y="869"
+       width="156.13"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1318" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-77"
+       x="412.71"
+       y="869"
+       width="156.13"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1320" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-77"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1326">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-77"
+         x="490.28"
+         y="886.5"
+         id="text1322">Mostra Schermata Mappa</text>
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-77"
+         x="490.28"
+         y="900.5"
+         id="text1324">Inserisci Percorso</text>
+    </g>
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-80"
+       x="426.27"
+       y="1026"
+       width="133.5"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1328" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-80"
+       x="426.27"
+       y="1026"
+       width="133.5"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1330" />
+    <g
+       cell-id="79SzY8WiAu2Xe1mb53Nm-80"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1334">
+      <text
+         cell-id="79SzY8WiAu2Xe1mb53Nm-80"
+         x="492.52"
+         y="1050.5"
+         id="text1332">Salva il percorso</text>
+    </g>
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-18"
+       x="430.54"
+       y="1107"
+       width="124.96"
+       height="47.27"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1336" />
+    <rect
+       cell-id="pH3RPZTcYMq-4IWurCKD-18"
+       x="430.54"
+       y="1107"
+       width="124.96"
+       height="47.27"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1338" />
+    <g
+       cell-id="pH3RPZTcYMq-4IWurCKD-18"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g1344">
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-18"
+         x="492.52"
+         y="1128.14"
+         id="text1340">Ritorna alla schermata</text>
+      <text
+         cell-id="pH3RPZTcYMq-4IWurCKD-18"
+         x="492.52"
+         y="1142.14"
+         id="text1342">di Inserimento dati</text>
+    </g>
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-82"
+       d="M 493.05 1066 L 493 1104.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1346" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-82"
+       d="M 487.02 1093.87 L 493 1105.88 L 499.02 1093.89"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1348" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-92"
+       d="M 570.75 1263.7 L 570.75 1302.64"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1350" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-92"
+       d="M 570.75 1307.89 L 567.25 1300.89 L 570.75 1302.64 L 574.25 1300.89 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1352" />
+    <rect
+       cell-id="79SzY8WiAu2Xe1mb53Nm-89"
+       x="560.13"
+       y="1177"
+       width="12"
+       height="161.28"
+       fill="black"
+       stroke="#000000"
+       transform="rotate(90,566.13,1257.64)"
+       pointer-events="all"
+       id="rect1354" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-94"
+       d="M 575.2 1355.3 L 575.01 1395.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1356" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-94"
+       d="M 569.06 1384.85 L 575.01 1396.88 L 581.06 1384.91"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1358" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-10"
+       d="M 228.8 144.5 L 462.99 144.5"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1360" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-10"
+       d="M 452.11 150.5 L 464.11 144.5 L 452.11 138.5"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1362" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-14"
+       d="M 513 168 L 513 186.7 Q 513 196.7 503 196.7 L 182 196.7 Q 172 196.7 172 206.7 L 172 229.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1364" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-14"
+       d="M 166 218.88 L 172 230.88 L 178 218.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1366" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-55"
+       d="M 303.55 320.7 L 480.8 320.7 Q 490.8 320.7 490.8 330.7 L 490.8 384.58"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1368" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-55"
+       d="M 484.8 373.7 L 490.8 385.7 L 496.8 373.7"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1370" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-56"
+       d="M 81.7 340.72 L 81.7 355 Q 81.7 365 91.7 365 L 643 365 Q 653 365 653 375 L 653 386.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1372" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-56"
+       d="M 647 375.88 L 653 387.88 L 659 375.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1374" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-58"
+       d="M 444.01 406.8 L 90.9 406.8 Q 80.9 406.8 80.9 416.8 L 80.9 476.58"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1376" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-58"
+       d="M 74.9 465.7 L 80.9 477.7 L 86.9 465.7"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1378" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-59"
+       d="M 644.4 426.82 L 644.4 490 Q 644.4 500 634.4 500 L 341.62 500"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1380" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-59"
+       d="M 352.5 494 L 340.5 500 L 352.5 506"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1382" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-71"
+       d="M 311.1 518.82 L 311.1 553 Q 311.1 563 321.1 563 L 569.9 563"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1384" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-71"
+       d="M 559.01 569 L 571.01 563 L 559.01 557"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1386" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-73"
+       d="M 80.9 518.82 L 80.9 598 Q 80.9 608 90.9 608 L 415.85 608"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1388" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-73"
+       d="M 404.97 614 L 416.97 608 L 404.97 602"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1390" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-74"
+       d="M 631.9 583 L 631.9 705 Q 631.9 715 621.9 715 L 377.24 715"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1392" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-74"
+       d="M 388.12 709 L 376.12 715 L 388.12 721"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1394" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-76"
+       d="M 477.9 623 L 477.9 650 Q 477.9 660 467.9 660 L 126 660 Q 116 660 116 670 L 116 691.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1396" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-76"
+       d="M 110 680.88 L 116 692.88 L 122 680.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1398" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-78"
+       d="M 116.4 733.82 L 116.4 889 Q 116.4 899 126.4 899 L 410.76 899"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1400" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-78"
+       d="M 399.88 905 L 411.88 899 L 399.88 893"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1402" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-79"
+       d="M 490.8 909 L 490.8 967 Q 490.8 977 480.8 977 L 192.33 977"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1404" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-79"
+       d="M 203.21 971 L 191.21 977 L 203.21 983"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1406" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-81"
+       d="M 129.1 995.53 L 129.1 1046 Q 129.1 1056 139.1 1056 L 423.76 1056"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1408" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-81"
+       d="M 412.88 1062 L 424.88 1056 L 412.88 1050"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1410" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-87"
+       d="M 430.5 1128.85 L 188.64 1128.85"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1412" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-87"
+       d="M 199.52 1122.85 L 187.52 1128.85 L 199.52 1134.85"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1414" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-90"
+       d="M 163.2 1207.4 L 516 1207.4 Q 526 1207.4 526 1217.4 L 526 1242.63"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1416" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-90"
+       d="M 526 1247.88 L 522.5 1240.88 L 526 1242.63 L 529.5 1240.88 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1418" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-91"
+       d="M 357.35 797.7 L 612 797.7 Q 622 797.7 622 807.7 L 622 1246.63"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1420" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-91"
+       d="M 622 1251.88 L 618.5 1244.88 L 622 1246.63 L 625.5 1244.88 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1422" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-8"
+       d="M 73.8 83.3 L 165.4 83.3 Q 175.4 83.3 175.4 93.3 L 175.4 108.52"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1424" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-8"
+       d="M 169.4 97.63 L 175.4 109.63 L 181.4 97.63"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1426" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-34"
+       d="M 329 734 L 329 746.3 Q 329 756.3 328.96 766.3 L 328.91 776.58"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1428" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-34"
+       d="M 322.96 765.68 L 328.9 777.7 L 334.96 765.73"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1430" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-17"
+       d="M 148.22 244 L 81.7 244 L 81.7 290.48"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1432" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-17"
+       d="M 77.2 282.6 L 81.7 291.6 L 86.2 282.6"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1434" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-18"
+       d="M 195.09 244 L 254.1 244 L 254.1 290.48"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1436" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-18"
+       d="M 249.6 282.6 L 254.1 291.6 L 258.6 282.6"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1438" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-88"
+       d="M 134.95 1147 L 135 1185.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1440" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-88"
+       d="M 128.98 1174.89 L 135 1186.88 L 140.98 1174.87"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1442" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-82"
+       d="M 493.05 1066 L 493 1104.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1444" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-82"
+       d="M 487.02 1093.87 L 493 1105.88 L 499.02 1093.89"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1446" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-92"
+       d="M 570.75 1263.7 L 570.75 1302.64"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1448" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-92"
+       d="M 570.75 1307.89 L 567.25 1300.89 L 570.75 1302.64 L 574.25 1300.89 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1450" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-94"
+       d="M 575.2 1355.3 L 575.01 1395.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1452" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-94"
+       d="M 569.06 1384.85 L 575.01 1396.88 L 581.06 1384.91"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1454" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-10"
+       d="M 228.8 144.5 L 462.99 144.5"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1456" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-10"
+       d="M 452.11 150.5 L 464.11 144.5 L 452.11 138.5"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1458" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-14"
+       d="M 513 168 L 513 186.7 Q 513 196.7 503 196.7 L 182 196.7 Q 172 196.7 172 206.7 L 172 229.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1460" />
+    <path
+       cell-id="pH3RPZTcYMq-4IWurCKD-14"
+       d="M 166 218.88 L 172 230.88 L 178 218.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1462" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-55"
+       d="M 303.55 320.7 L 480.8 320.7 Q 490.8 320.7 490.8 330.7 L 490.8 384.58"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1464" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-55"
+       d="M 484.8 373.7 L 490.8 385.7 L 496.8 373.7"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1466" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-56"
+       d="M 81.7 340.72 L 81.7 355 Q 81.7 365 91.7 365 L 643 365 Q 653 365 653 375 L 653 386.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1468" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-56"
+       d="M 647 375.88 L 653 387.88 L 659 375.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1470" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-58"
+       d="M 444.01 406.8 L 90.9 406.8 Q 80.9 406.8 80.9 416.8 L 80.9 476.58"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1472" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-58"
+       d="M 74.9 465.7 L 80.9 477.7 L 86.9 465.7"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1474" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-59"
+       d="M 644.4 426.82 L 644.4 490 Q 644.4 500 634.4 500 L 341.62 500"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1476" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-59"
+       d="M 352.5 494 L 340.5 500 L 352.5 506"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1478" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-71"
+       d="M 311.1 518.82 L 311.1 553 Q 311.1 563 321.1 563 L 569.9 563"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1480" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-71"
+       d="M 559.01 569 L 571.01 563 L 559.01 557"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1482" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-73"
+       d="M 80.9 518.82 L 80.9 598 Q 80.9 608 90.9 608 L 415.85 608"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1484" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-73"
+       d="M 404.97 614 L 416.97 608 L 404.97 602"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1486" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-74"
+       d="M 631.9 583 L 631.9 705 Q 631.9 715 621.9 715 L 377.24 715"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1488" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-74"
+       d="M 388.12 709 L 376.12 715 L 388.12 721"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1490" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-76"
+       d="M 477.9 623 L 477.9 650 Q 477.9 660 467.9 660 L 126 660 Q 116 660 116 670 L 116 691.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1492" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-76"
+       d="M 110 680.88 L 116 692.88 L 122 680.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1494" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-78"
+       d="M 116.4 733.82 L 116.4 889 Q 116.4 899 126.4 899 L 410.76 899"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1496" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-78"
+       d="M 399.88 905 L 411.88 899 L 399.88 893"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1498" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-79"
+       d="M 490.8 909 L 490.8 967 Q 490.8 977 480.8 977 L 192.33 977"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1500" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-79"
+       d="M 203.21 971 L 191.21 977 L 203.21 983"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1502" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-81"
+       d="M 129.1 995.53 L 129.1 1046 Q 129.1 1056 139.1 1056 L 423.76 1056"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1504" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-81"
+       d="M 412.88 1062 L 424.88 1056 L 412.88 1050"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1506" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-87"
+       d="M 430.5 1128.85 L 188.64 1128.85"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1508" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-87"
+       d="M 199.52 1122.85 L 187.52 1128.85 L 199.52 1134.85"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1510" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-90"
+       d="M 163.2 1207.4 L 516 1207.4 Q 526 1207.4 526 1217.4 L 526 1242.63"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1512" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-90"
+       d="M 526 1247.88 L 522.5 1240.88 L 526 1242.63 L 529.5 1240.88 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1514" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-91"
+       d="M 357.35 797.7 L 612 797.7 Q 622 797.7 622 807.7 L 622 1246.63"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1516" />
+    <path
+       cell-id="79SzY8WiAu2Xe1mb53Nm-91"
+       d="M 622 1251.88 L 618.5 1244.88 L 622 1246.63 L 625.5 1244.88 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1518" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
+     x="-0.064681627"
+     y="-11.382972"
+     id="text3038"><tspan
+       sodipodi:role="line"
+       id="tspan3036"
+       x="-0.064681627"
+       y="-11.382972">Aggiungi Sentiero Activity Diagram</tspan></text>
+</svg>

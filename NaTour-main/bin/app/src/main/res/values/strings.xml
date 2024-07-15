@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">NaTour</string>
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+    <string name="title_plus">Plus</string>
+    <string name="title_search">Search</string>
+    <string name="paths">Paths</string>
+    <string name="users">Users</string>
+    <string name="regexName">[a-zA-Z]*</string>
+    <string name="regexUsername">[a-zA-Z0-9]*</string>
+    <string name="regexMail">[a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,4}</string>
+    <string-array name="programming_languages">
+        <item>facebook</item>
+        <item>google</item>
+        <item>NaTour</item>
+        <item>facebook</item>
+        <item>google</item>
+        <item>NaTour</item>
+        <item>facebook</item>
+        <item>google</item>
+        <item>NaTour</item>
+    </string-array>
+
+    <string-array name="difficulties_spinner">
+        <item>Low</item>
+        <item>Average</item>
+        <item>High</item>
+        <item>Expert</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is a description.</item>
+        <item>This is a description.</item>
+        <item>This is a description.</item>
+        <item>This is a description.</item>
+        <item>This is a description.</item>
+        <item>This is a description.</item>
+        <item>This is a description.</item>
+        <item>This is a description.</item>
+        <item>This is a description.</item>
+    </string-array>
+
+    <string-array name="typologyPointOfInterest">
+        <item>Grotta</item>
+        <item>Sorgente</item>
+        <item>Punto Panoramico</item>
+        <item>Area Pic-Nic</item>
+        <item>Baita</item>
+        <item>Flora</item>
+        <item>Luogo di Interesse Artistico</item>
+        <item>Altro</item>
+    </string-array>
+
+    <!-- Auth0 -->
+    <string name="com_auth0_client_id">14MGybloTfxjpVUf4EVoDmvFkY27eWEm</string>
+    <string name="com_auth0_domain">natour.us.auth0.com</string>
+    <string name="database_connections">Username-Password-Authentication</string>
+
+
+    <string name="droidSansBold">DroidSans-Bold.ttf</string>
+    <string name="difficulty">Difficoltà</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="givenName">Given Name</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="loading">Loading...</string>
+    <string name="account_paths">Paths</string>
+    <string name="account_compilations">Compilations</string>
+    <string name="account_photos">Photos</string>
+    <string name="account_reviews">Reviews</string>
+    <string name="duration">Durata</string>
+    <string name="start_point">Punto di inizio</string>
+    <string name="description">Descrizione</string>
+    <string name="lorem_ipsus">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="write_review">Scrivi una recensione!</string>
+    <string name="accessible">Accessibile</string>
+    <string name="title_path">title path</string>
+    <string name="nazione">Nazione</string>
+    <string name="regione">Regione</string>
+</resources>

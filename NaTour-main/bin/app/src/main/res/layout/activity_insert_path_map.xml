@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <org.osmdroid.views.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonBack"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints">
+
+
+    </org.osmdroid.views.MapView>
+
+    <!--
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/editTextTextEndPoint"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:hint="End Point"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextStartPoint">
+
+        <AutoCompleteTextView
+            android:id="@+id/auto_complete_text_input_end_point"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text" />
+
+    </com.google.android.material.textfield.TextInputLayout>        -->
+
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Undo"
+        app:layout_constraintBottom_toTopOf="@+id/editTextTextStartPoint"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/enableStartPointText"
+        android:layout_width="38dp"
+        android:layout_height="47dp"
+        android:layout_marginEnd="5dp"
+        app:layout_constraintBottom_toBottomOf="@+id/editTextTextStartPoint"
+        app:layout_constraintEnd_toStartOf="@+id/editTextTextStartPoint"
+        app:layout_constraintTop_toTopOf="@+id/editTextTextStartPoint"
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/enableEndPointText"
+        android:layout_width="38dp"
+        android:layout_height="47dp"
+        android:layout_marginRight="5dp"
+        app:layout_constraintBottom_toBottomOf="@+id/editTextTextEndPoint"
+        app:layout_constraintEnd_toStartOf="@+id/editTextTextEndPoint"
+        app:layout_constraintTop_toTopOf="@+id/editTextTextEndPoint"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/buttonConferm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="@color/light_green"
+        android:text="Conferm"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <AutoCompleteTextView
+        android:id="@+id/editTextTextStartPoint"
+        android:layout_width="326dp"
+        android:layout_height="49dp"
+        android:ems="10"
+        android:enabled="false"
+        android:hint="Start Point "
+        android:completionThreshold="1"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/editTextTextEndPoint"
+        app:layout_constraintEnd_toEndOf="@+id/editTextTextEndPoint"
+        app:layout_constraintStart_toStartOf="@+id/editTextTextEndPoint"
+        android:layout_marginBottom="20dp"/>
+
+    <AutoCompleteTextView
+        android:id="@+id/editTextTextEndPoint"
+        android:layout_width="326dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="20dp"
+        android:completionThreshold="1"
+        android:ems="10"
+        android:enabled="false"
+        android:hint="End Point"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/buttonConferm"
+        app:layout_constraintEnd_toEndOf="@+id/buttonConferm" />
+
+    <Button
+        android:id="@+id/buttonSearchWIthNamesAddresses"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/pale_blue"
+        android:text="Search with name address"
+        app:layout_constraintBottom_toBottomOf="@+id/buttonConferm"
+        app:layout_constraintEnd_toStartOf="@+id/buttonConferm"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/buttonConferm" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="904px"
+   height="294px"
+   viewBox="-0.5 -0.5 904 294"
+   animation="{&quot;scriptArr&quot;:[]}"
+   content="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1aplQl8f"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg50269"
+   sodipodi:docname="UseCaseAddPath.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview50271"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.3230088"
+     inkscape:cx="451.62207"
+     inkscape:cy="147.01338"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50269" />
+  <defs
+     id="defs50179">
+    <style
+       type="text/css"
+       id="style50175">ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+</style>
+    <style
+       type="text/css"
+       id="style50177">@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+</style>
+  </defs>
+  <g
+     id="g50259">
+    <ellipse
+       cell-id="1ruTsFOgIE-K2mmIQpgc-1"
+       cx="15"
+       cy="219.5"
+       rx="7.5"
+       ry="7.5"
+       fill="#7acff5"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse50181" />
+    <rect
+       cell-id="1ruTsFOgIE-K2mmIQpgc-1"
+       x="0"
+       y="212"
+       width="30"
+       height="60"
+       fill-opacity="0"
+       fill="#7acff5"
+       stroke="none"
+       pointer-events="all"
+       id="rect50183" />
+    <ellipse
+       cell-id="1ruTsFOgIE-K2mmIQpgc-1"
+       cx="15"
+       cy="219.5"
+       rx="7.5"
+       ry="7.5"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse50185" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-1"
+       d="M 15 227 L 15 252"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path50187" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-1"
+       d="M 0 236 L 30 236"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path50189" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-1"
+       d="M 15 252 L 0 272"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path50191" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-1"
+       d="M 15 252 L 30 272"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path50193" />
+    <g
+       cell-id="1ruTsFOgIE-K2mmIQpgc-1"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g50197">
+      <text
+         cell-id="1ruTsFOgIE-K2mmIQpgc-1"
+         x="14.5"
+         y="289.5"
+         id="text50195">User</text>
+    </g>
+    <ellipse
+       cell-id="1ruTsFOgIE-K2mmIQpgc-2"
+       cx="230"
+       cy="242"
+       rx="82"
+       ry="41"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse50199" />
+    <g
+       cell-id="1ruTsFOgIE-K2mmIQpgc-2"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g50203">
+      <text
+         cell-id="1ruTsFOgIE-K2mmIQpgc-2"
+         x="229.5"
+         y="246.5"
+         id="text50201">Aggiungi sentiero</text>
+    </g>
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-4"
+       d="M 30 242 L 148 242"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path50205" />
+    <ellipse
+       cell-id="1ruTsFOgIE-K2mmIQpgc-5"
+       cx="360.8"
+       cy="41.9"
+       rx="83.8"
+       ry="41.9"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse50207" />
+    <g
+       cell-id="1ruTsFOgIE-K2mmIQpgc-5"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g50211">
+      <text
+         cell-id="1ruTsFOgIE-K2mmIQpgc-5"
+         x="360.3"
+         y="46.4"
+         id="text50209">Aggiungi sentiero file gpx </text>
+    </g>
+    <ellipse
+       cell-id="1ruTsFOgIE-K2mmIQpgc-7"
+       cx="513.4"
+       cy="233.2"
+       rx="106.4"
+       ry="53.2"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse50213" />
+    <g
+       cell-id="1ruTsFOgIE-K2mmIQpgc-7"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g50217">
+      <text
+         cell-id="1ruTsFOgIE-K2mmIQpgc-7"
+         x="512.9"
+         y="237.7"
+         id="text50215">Aggiungi sentiero mappa geografica </text>
+    </g>
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-14"
+       d="M 312 237.6 L 404.76 237.6"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path50219" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-14"
+       d="M 398.88 239.93 L 405.88 237.6 L 398.88 235.27"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path50221" />
+    <ellipse
+       cell-id="1ruTsFOgIE-K2mmIQpgc-15"
+       cx="834.6"
+       cy="229.8"
+       rx="67.6"
+       ry="33.8"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse50223" />
+    <g
+       cell-id="1ruTsFOgIE-K2mmIQpgc-15"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g50227">
+      <text
+         cell-id="1ruTsFOgIE-K2mmIQpgc-15"
+         x="834.1"
+         y="234.3"
+         id="text50225">Inserisci i dati</text>
+    </g>
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-23"
+       d="M 619.8 231.5 L 760.63 231.5"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path50229" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-23"
+       d="M 765.88 231.5 L 758.88 235 L 760.63 231.5 L 758.88 228 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path50231" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-26"
+       d="M 469.57 178.25 L 394.22 83.8"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="4"
+       pointer-events="stroke"
+       id="path50233" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-26"
+       d="M 458.09 173.49 L 470.27 179.13 L 467.47 166"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path50235" />
+    <g
+       cell-id="1ruTsFOgIE-K2mmIQpgc-26"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="11px"
+       id="g50239">
+      <text
+         cell-id="1ruTsFOgIE-K2mmIQpgc-26"
+         x="423.98"
+         y="141.77"
+         id="text50237">&lt;&lt;Extend&gt;&gt;</text>
+    </g>
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-4"
+       d="M 30 242 L 148 242"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path50241" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-14"
+       d="M 312 237.6 L 404.76 237.6"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path50243" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-14"
+       d="M 398.88 239.93 L 405.88 237.6 L 398.88 235.27"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path50245" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-23"
+       d="M 619.8 231.5 L 760.63 231.5"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path50247" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-23"
+       d="M 765.88 231.5 L 758.88 235 L 760.63 231.5 L 758.88 228 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path50249" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-26"
+       d="M 469.57 178.25 L 394.22 83.8"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="4"
+       pointer-events="stroke"
+       id="path50251" />
+    <path
+       cell-id="1ruTsFOgIE-K2mmIQpgc-26"
+       d="M 458.09 173.49 L 470.27 179.13 L 467.47 166"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path50253" />
+    <g
+       cell-id="1ruTsFOgIE-K2mmIQpgc-26"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="11px"
+       id="g50257">
+      <text
+         cell-id="1ruTsFOgIE-K2mmIQpgc-26"
+         x="423.98"
+         y="141.77"
+         id="text50255">&lt;&lt;Extend&gt;&gt;</text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
+     x="1.0117052"
+     y="19.152174"
+     id="text52239"><tspan
+       sodipodi:role="line"
+       id="tspan52237"
+       x="1.0117052"
+       y="19.152174">Aggiungi Sentiero Use Case</tspan></text>
+</svg>

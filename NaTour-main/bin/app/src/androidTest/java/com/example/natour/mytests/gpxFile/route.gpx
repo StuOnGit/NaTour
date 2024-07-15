@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2022 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2022</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/Università Degli Studi di Napoli Federico II Complesso Universitario di Monte Sant'Angelo, Via Vicinale Cupa Cintia, Napoli, NA/Fuorigrotta, Napoli NA/@40.8317975,14.1804655,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x133b0ed5dc19a33b:0xb3482663d2c21f6e!2m2!1d14.1849805!2d40.8388234!1m5!1m1!1s0x133b0ecb9f9b2265:0xb1f72a0ee982ef1!2m2!1d14.1928152!2d40.8238636!3e2?hl=en</url-->
+    <time>2022-03-22T23:26:40Z</time>
+  </metadata>
+  <wpt lat="40.8388234" lon="14.1849805">
+    <name>Università Degli Studi di Napoli Federico II Complesso Universitario di Monte Sant&apos;Angelo</name>
+    <desc>Monte S. Angelo University Federico II, Via Vicinale Cupa Cintia, 26, 80126 Napoli NA, Italy</desc>
+  </wpt>
+  <wpt lat="40.8238636" lon="14.1928152">
+    <name>Fuorigrotta</name>
+    <desc>Fuorigrotta, Naples, Metropolitan City of Naples, Italy</desc>
+  </wpt>
+<rte>
+  <name>Università Degli Studi di Napoli Federico II Complesso Universitario di Monte Sant&apos;Angelo to Fuorigrotta</name>
+  <rtept lat="40.8396784" lon="14.1875452">
+    <name>RP001</name>
+  </rtept>
+  <rtept lat="40.8397327" lon="14.1876491">
+    <name>RP002</name>
+  </rtept>
+  <rtept lat="40.8312767" lon="14.191309">
+    <name>RP003</name>
+  </rtept>
+  <rtept lat="40.829644" lon="14.1913094">
+    <name>RP004</name>
+  </rtept>
+  <rtept lat="40.8287483" lon="14.1910337">
+    <name>RP005</name>
+  </rtept>
+  <rtept lat="40.8252219" lon="14.1934601">
+    <name>RP006</name>
+  </rtept>
+  <rtept lat="40.8251474" lon="14.1931404">
+    <name>RP007</name>
+  </rtept>
+  <rtept lat="40.8238305" lon="14.1926594">
+    <name>RP008</name>
+  </rtept>
+</rte>
+</gpx>

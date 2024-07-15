@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="752px"
+   height="379px"
+   viewBox="-0.5 -0.5 752 379"
+   animation="{&quot;scriptArr&quot;:[]}"
+   content="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18vmMwbb"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg5158"
+   sodipodi:docname="AggiungiSentieroInCompilationActivityDiagram.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5160"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.5904255"
+     inkscape:cx="375.68562"
+     inkscape:cy="189.57191"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5158" />
+  <defs
+     id="defs5048">
+    <style
+       type="text/css"
+       id="style5044">ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+</style>
+    <style
+       type="text/css"
+       id="style5046">@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+</style>
+  </defs>
+  <g
+     id="g5148">
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-1"
+       x="1"
+       y="1"
+       width="749.44"
+       height="377"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect5050" />
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-2"
+       x="1"
+       y="1"
+       width="364.99"
+       height="18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect5052" />
+    <g
+       cell-id="7D2J5MW0qhdKT8St94oA-2"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g5056">
+      <text
+         cell-id="7D2J5MW0qhdKT8St94oA-2"
+         x="182.99"
+         y="14.5"
+         id="text5054">Utente </text>
+    </g>
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-3"
+       x="365.99"
+       y="1"
+       width="384.45"
+       height="18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect5058" />
+    <g
+       cell-id="7D2J5MW0qhdKT8St94oA-3"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g5062">
+      <text
+         cell-id="7D2J5MW0qhdKT8St94oA-3"
+         x="557.71"
+         y="14.5"
+         id="text5060">Sistema</text>
+    </g>
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-4"
+       x="1"
+       y="19"
+       width="364.99"
+       height="359"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect5064" />
+    <ellipse
+       cell-id="7D2J5MW0qhdKT8St94oA-5"
+       cx="49.69"
+       cy="64.2"
+       rx="13.2"
+       ry="13.2"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse5066" />
+    <ellipse
+       cell-id="7D2J5MW0qhdKT8St94oA-5"
+       cx="49.69"
+       cy="64.2"
+       rx="13.2"
+       ry="13.2"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse5068" />
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-6"
+       x="84"
+       y="112"
+       width="211"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect5070" />
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-6"
+       x="84"
+       y="112"
+       width="211"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect5072" />
+    <g
+       cell-id="7D2J5MW0qhdKT8St94oA-6"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g5076">
+      <text
+         cell-id="7D2J5MW0qhdKT8St94oA-6"
+         x="189"
+         y="136.5"
+         id="text5074">Clicca su &quot;Aggiungi  a compilation&quot;</text>
+    </g>
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-7"
+       d="M 62.89 64.2 L 180 64.2 Q 190 64.2 190 74.2 L 190 109.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path5078" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-7"
+       d="M 184 98.88 L 190 110.88 L 196 98.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path5080" />
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-8"
+       x="84"
+       y="231"
+       width="175"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect5082" />
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-8"
+       x="84"
+       y="231"
+       width="175"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect5084" />
+    <g
+       cell-id="7D2J5MW0qhdKT8St94oA-8"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g5088">
+      <text
+         cell-id="7D2J5MW0qhdKT8St94oA-8"
+         x="171"
+         y="255.5"
+         id="text5086">Seleziona la compilation</text>
+    </g>
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-10"
+       x="365.99"
+       y="19"
+       width="384.45"
+       height="359"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect5090" />
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-11"
+       x="451"
+       y="112"
+       width="189"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect5092" />
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-11"
+       x="451"
+       y="112"
+       width="189"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect5094" />
+    <g
+       cell-id="7D2J5MW0qhdKT8St94oA-11"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g5098">
+      <text
+         cell-id="7D2J5MW0qhdKT8St94oA-11"
+         x="545"
+         y="136.5"
+         id="text5096">Mostra Dialog &quot;Lista compilation&quot;</text>
+    </g>
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-12"
+       x="458"
+       y="231"
+       width="200.44"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect5100" />
+    <rect
+       cell-id="7D2J5MW0qhdKT8St94oA-12"
+       x="458"
+       y="231"
+       width="200.44"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect5102" />
+    <g
+       cell-id="7D2J5MW0qhdKT8St94oA-12"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g5106">
+      <text
+         cell-id="7D2J5MW0qhdKT8St94oA-12"
+         x="557.72"
+         y="255.5"
+         id="text5104">Sentiero aggiunto alla compilation</text>
+    </g>
+    <ellipse
+       cell-id="7D2J5MW0qhdKT8St94oA-14"
+       cx="558.22"
+       cy="336"
+       rx="6.666666666666667"
+       ry="6.666666666666667"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse5108" />
+    <ellipse
+       cell-id="7D2J5MW0qhdKT8St94oA-14"
+       cx="558.22"
+       cy="336"
+       rx="10"
+       ry="10"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse5110" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-21"
+       d="M 558.22 271 L 558.22 323.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path5112" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-21"
+       d="M 552.22 312.88 L 558.22 324.88 L 564.22 312.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path5114" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-16"
+       d="M 295 132 L 448.76 132"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path5116" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-16"
+       d="M 437.88 138 L 449.88 132 L 437.88 126"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path5118" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-17"
+       d="M 545.5 152 L 545.5 183 Q 545.5 193 535.5 193 L 182 193 Q 172 193 172 203 L 172 228.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path5120" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-17"
+       d="M 166 217.88 L 172 229.88 L 178 217.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path5122" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-18"
+       d="M 259 251 L 455.76 251"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path5124" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-18"
+       d="M 444.88 257 L 456.88 251 L 444.88 245"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path5126" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-7"
+       d="M 62.89 64.2 L 180 64.2 Q 190 64.2 190 74.2 L 190 109.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path5128" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-7"
+       d="M 184 98.88 L 190 110.88 L 196 98.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path5130" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-21"
+       d="M 558.22 271 L 558.22 323.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path5132" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-21"
+       d="M 552.22 312.88 L 558.22 324.88 L 564.22 312.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path5134" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-16"
+       d="M 295 132 L 448.76 132"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path5136" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-16"
+       d="M 437.88 138 L 449.88 132 L 437.88 126"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path5138" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-17"
+       d="M 545.5 152 L 545.5 183 Q 545.5 193 535.5 193 L 182 193 Q 172 193 172 203 L 172 228.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path5140" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-17"
+       d="M 166 217.88 L 172 229.88 L 178 217.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path5142" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-18"
+       d="M 259 251 L 455.76 251"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path5144" />
+    <path
+       cell-id="7D2J5MW0qhdKT8St94oA-18"
+       d="M 444.88 257 L 456.88 251 L 444.88 245"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path5146" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
+     x="2.0150502"
+     y="-16.847826"
+     id="text7674"><tspan
+       sodipodi:role="line"
+       id="tspan7672"
+       x="2.0150502"
+       y="-16.847826">Aggiungi Sentiero nella Compilation Activity Diagram</tspan><tspan
+       sodipodi:role="line"
+       x="2.0150502"
+       y="-0.18120146"
+       id="tspan7676" /></text>
+</svg>

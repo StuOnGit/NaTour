@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="752px"
+   height="503px"
+   viewBox="-0.5 -0.5 752 503"
+   animation="{&quot;scriptArr&quot;:[]}"
+   content="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"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg31241"
+   sodipodi:docname="InseriPuntiInteresseActivityDiagram.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31243"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.5904255"
+     inkscape:cx="375.68562"
+     inkscape:cy="200.88963"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31241" />
+  <defs
+     id="defs31091">
+    <style
+       type="text/css"
+       id="style31087">ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+</style>
+    <style
+       type="text/css"
+       id="style31089">@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+</style>
+  </defs>
+  <g
+     id="g31231">
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-1"
+       x="1"
+       y="1"
+       width="749.44"
+       height="501"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect31093" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-2"
+       x="1"
+       y="1"
+       width="364.99"
+       height="18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect31095" />
+    <g
+       cell-id="XDfp_LQV0pzSp1QcXSUM-2"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g31099">
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-2"
+         x="182.99"
+         y="14.5"
+         id="text31097">Utente </text>
+    </g>
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-3"
+       x="365.99"
+       y="1"
+       width="384.45"
+       height="18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect31101" />
+    <g
+       cell-id="XDfp_LQV0pzSp1QcXSUM-3"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g31105">
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-3"
+         x="557.72"
+         y="14.5"
+         id="text31103">Sistema</text>
+    </g>
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-4"
+       x="1"
+       y="19"
+       width="364.99"
+       height="483"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect31107" />
+    <ellipse
+       cell-id="XDfp_LQV0pzSp1QcXSUM-5"
+       cx="49.69"
+       cy="64.2"
+       rx="13.2"
+       ry="13.2"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse31109" />
+    <ellipse
+       cell-id="XDfp_LQV0pzSp1QcXSUM-5"
+       cx="49.69"
+       cy="64.2"
+       rx="13.2"
+       ry="13.2"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse31111" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-6"
+       x="84"
+       y="102"
+       width="211"
+       height="60"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31113" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-6"
+       x="84"
+       y="102"
+       width="211"
+       height="60"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31115" />
+    <g
+       cell-id="XDfp_LQV0pzSp1QcXSUM-6"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g31119">
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-6"
+         x="189"
+         y="136.5"
+         id="text31117">Clicca su &quot;Aggiungi  Punti di Interesse&quot;</text>
+    </g>
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-7"
+       d="M 62.89 64.2 L 180 64.2 Q 190 64.2 190 74.2 L 190 99.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31121" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-7"
+       d="M 184 88.88 L 190 100.88 L 196 88.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31123" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-8"
+       x="84"
+       y="231"
+       width="175"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31125" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-8"
+       x="84"
+       y="231"
+       width="175"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31127" />
+    <g
+       cell-id="XDfp_LQV0pzSp1QcXSUM-8"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g31133">
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-8"
+         x="171"
+         y="248.5"
+         id="text31129">Clicca sulla mappa per </text>
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-8"
+         x="171"
+         y="262.5"
+         id="text31131">inserire un punto di Interesse</text>
+    </g>
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-17"
+       x="84"
+       y="348"
+       width="175"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31135" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-17"
+       x="84"
+       y="348"
+       width="175"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31137" />
+    <g
+       cell-id="XDfp_LQV0pzSp1QcXSUM-17"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g31141">
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-17"
+         x="171"
+         y="372.5"
+         id="text31139">Inserisce Dati</text>
+    </g>
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-9"
+       x="365.99"
+       y="19"
+       width="384.45"
+       height="483"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="all"
+       id="rect31143" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-10"
+       x="432"
+       y="102"
+       width="272.99"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31145" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-10"
+       x="432"
+       y="102"
+       width="272.99"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31147" />
+    <g
+       cell-id="XDfp_LQV0pzSp1QcXSUM-10"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g31153">
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-10"
+         x="567.99"
+         y="119.5"
+         id="text31149">Mostra Finestra &quot;Inserisci </text>
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-10"
+         x="567.99"
+         y="133.5"
+         id="text31151">punti di interesse&quot;</text>
+    </g>
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-11"
+       x="458"
+       y="231"
+       width="200.44"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31155" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-11"
+       x="458"
+       y="231"
+       width="200.44"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31157" />
+    <g
+       cell-id="XDfp_LQV0pzSp1QcXSUM-11"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g31163">
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-11"
+         x="557.72"
+         y="248.5"
+         id="text31159">Mostra Dialog &quot;Aggiungi dati </text>
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-11"
+         x="557.72"
+         y="262.5"
+         id="text31161">Punti di Interesse&quot;</text>
+    </g>
+    <ellipse
+       cell-id="XDfp_LQV0pzSp1QcXSUM-12"
+       cx="558.22"
+       cy="460"
+       rx="6.666666666666667"
+       ry="6.666666666666667"
+       fill="black"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse31165" />
+    <ellipse
+       cell-id="XDfp_LQV0pzSp1QcXSUM-12"
+       cx="558.22"
+       cy="460"
+       rx="10"
+       ry="10"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse31167" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-19"
+       x="493.96"
+       y="348"
+       width="128.5"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31169" />
+    <rect
+       cell-id="XDfp_LQV0pzSp1QcXSUM-19"
+       x="493.96"
+       y="348"
+       width="128.5"
+       height="40"
+       rx="15"
+       ry="15"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect31171" />
+    <g
+       cell-id="XDfp_LQV0pzSp1QcXSUM-19"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g31177">
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-19"
+         x="557.71"
+         y="365.5"
+         id="text31173">Punto di Interesse </text>
+      <text
+         cell-id="XDfp_LQV0pzSp1QcXSUM-19"
+         x="557.71"
+         y="379.5"
+         id="text31175">Inserito</text>
+    </g>
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-22"
+       d="M 558.15 388 L 558.01 447.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31179" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-22"
+       d="M 552.03 436.87 L 558 448.88 L 564.03 436.9"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31181" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-14"
+       d="M 295 127 L 429.76 127"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31183" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-14"
+       d="M 418.88 133 L 430.88 127 L 418.88 121"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31185" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-15"
+       d="M 546 142 L 546 183 Q 546 193 536 193 L 182 193 Q 172 193 172 203 L 172 228.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31187" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-15"
+       d="M 166 217.88 L 172 229.88 L 178 217.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31189" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-16"
+       d="M 259 251 L 455.76 251"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31191" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-16"
+       d="M 444.88 257 L 456.88 251 L 444.88 245"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31193" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-18"
+       d="M 558.2 271 L 558.2 286 Q 558.2 296 548.2 296 L 182 296 Q 172 296 172 306 L 172 345.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31195" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-18"
+       d="M 166 334.88 L 172 346.88 L 178 334.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31197" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-20"
+       d="M 259 368 L 491.72 368"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31199" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-20"
+       d="M 480.84 374 L 492.84 368 L 480.84 362"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31201" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-7"
+       d="M 62.89 64.2 L 180 64.2 Q 190 64.2 190 74.2 L 190 99.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31203" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-7"
+       d="M 184 88.88 L 190 100.88 L 196 88.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31205" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-22"
+       d="M 558.15 388 L 558.01 447.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31207" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-22"
+       d="M 552.03 436.87 L 558 448.88 L 564.03 436.9"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31209" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-14"
+       d="M 295 127 L 429.76 127"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31211" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-14"
+       d="M 418.88 133 L 430.88 127 L 418.88 121"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31213" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-15"
+       d="M 546 142 L 546 183 Q 546 193 536 193 L 182 193 Q 172 193 172 203 L 172 228.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31215" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-15"
+       d="M 166 217.88 L 172 229.88 L 178 217.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31217" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-16"
+       d="M 259 251 L 455.76 251"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31219" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-16"
+       d="M 444.88 257 L 456.88 251 L 444.88 245"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31221" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-18"
+       d="M 558.2 271 L 558.2 286 Q 558.2 296 548.2 296 L 182 296 Q 172 296 172 306 L 172 345.76"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31223" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-18"
+       d="M 166 334.88 L 172 346.88 L 178 334.88"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31225" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-20"
+       d="M 259 368 L 491.72 368"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path31227" />
+    <path
+       cell-id="XDfp_LQV0pzSp1QcXSUM-20"
+       d="M 480.84 374 L 492.84 368 L 480.84 362"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path31229" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
+     x="2.6438127"
+     y="-16.219063"
+     id="text32683"><tspan
+       sodipodi:role="line"
+       id="tspan32681"
+       x="2.6438127"
+       y="-16.219063">Inserisci Punti d'interesse Activity Diagram</tspan></text>
+</svg>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="835px"
+   height="376px"
+   viewBox="-0.5 -0.5 835 376"
+   animation="{&quot;scriptArr&quot;:[]}"
+   content="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1dzHZS7a"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg104743"
+   sodipodi:docname="UseCaseRicerca.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview104745"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.4323353"
+     inkscape:cx="417.15092"
+     inkscape:cy="188.15426"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg104743" />
+  <defs
+     id="defs104633">
+    <style
+       type="text/css"
+       id="style104629">ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+ul { margin-top: 0px; margin-bottom: 10px; }
+ol { margin-top: 0px; margin-bottom: 10px; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }
+.h1, h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5em; font-weight: bold; }
+h3 { font-size: 1.17em; font-weight: bold; }
+.h4, h4 { font-size: 1.5rem; }
+.h5, h5 { font-size: 1.25rem; }
+.h6, h6 { font-size: 1rem; }
+p { margin-top: 0; margin-bottom: 1rem; }
+</style>
+    <style
+       type="text/css"
+       id="style104631">@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap);
+</style>
+  </defs>
+  <g
+     id="g104733">
+    <ellipse
+       cell-id="C6R-QZl_tuQVO8GFvPIy-1"
+       cx="308"
+       cy="197"
+       rx="40"
+       ry="20"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse104635" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-1"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g104639">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-1"
+         x="307.5"
+         y="201.5"
+         id="text104637">Ricerca</text>
+    </g>
+    <ellipse
+       cell-id="C6R-QZl_tuQVO8GFvPIy-2"
+       cx="15"
+       cy="164.5"
+       rx="7.5"
+       ry="7.5"
+       fill="#7acff5"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse104641" />
+    <rect
+       cell-id="C6R-QZl_tuQVO8GFvPIy-2"
+       x="0"
+       y="157"
+       width="30"
+       height="60"
+       fill-opacity="0"
+       fill="#7acff5"
+       stroke="none"
+       pointer-events="all"
+       id="rect104643" />
+    <ellipse
+       cell-id="C6R-QZl_tuQVO8GFvPIy-2"
+       cx="15"
+       cy="164.5"
+       rx="7.5"
+       ry="7.5"
+       fill="none"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse104645" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-2"
+       d="M 15 172 L 15 197"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104647" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-2"
+       d="M 0 181 L 30 181"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104649" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-2"
+       d="M 15 197 L 0 217"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104651" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-2"
+       d="M 15 197 L 30 217"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104653" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-2"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g104657">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-2"
+         x="14.5"
+         y="234.5"
+         id="text104655">User</text>
+    </g>
+    <ellipse
+       cell-id="C6R-QZl_tuQVO8GFvPIy-3"
+       cx="482.5"
+       cy="333.25"
+       rx="52.5"
+       ry="26.25"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse104659" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-3"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g104663">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-3"
+         x="482"
+         y="337.75"
+         id="text104661">Ricerca Itinerari</text>
+    </g>
+    <ellipse
+       cell-id="C6R-QZl_tuQVO8GFvPIy-4"
+       cx="482.5"
+       cy="28.75"
+       rx="57.5"
+       ry="28.75"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse104665" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-4"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g104669">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-4"
+         x="482"
+         y="33.25"
+         id="text104667">Ricera Utenti</text>
+    </g>
+    <ellipse
+       cell-id="C6R-QZl_tuQVO8GFvPIy-5"
+       cx="751.8"
+       cy="333.25"
+       rx="81.8"
+       ry="40.9"
+       fill="#7acff5"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse104671" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-5"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g104675">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-5"
+         x="751.3"
+         y="337.75"
+         id="text104673">RIcerca Itinerari con filtri</text>
+    </g>
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-6"
+       d="M 38 187.78 L 257.77 195.29"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path104677" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-6"
+       d="M 249.73 199.51 L 258.88 195.32 L 250.04 190.52"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104679" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-7"
+       d="M 328.74 177 L 451.07 59.05"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="4"
+       pointer-events="stroke"
+       id="path104681" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-7"
+       d="M 447.4 70.92 L 451.88 58.28 L 439.07 62.29"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104683" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-7"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="11px"
+       id="g104687">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-7"
+         x="383.21"
+         y="114.11"
+         id="text104685">&lt;&lt;Include&gt;&gt;</text>
+    </g>
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-8"
+       d="M 333.61 217 L 447.12 305.62"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="4"
+       pointer-events="stroke"
+       id="path104689" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-8"
+       d="M 434.85 303.66 L 448 306.31 L 442.23 294.2"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104691" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-8"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="11px"
+       id="g104695">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-8"
+         x="396.81"
+         y="258.04"
+         id="text104693">&lt;&lt;Include&gt;&gt;</text>
+    </g>
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-9"
+       d="M 537.24 333.25 L 670 333.25"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="4"
+       pointer-events="stroke"
+       id="path104697" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-9"
+       d="M 548.12 327.25 L 536.12 333.25 L 548.12 339.25"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104699" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-9"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="11px"
+       id="g104703">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-9"
+         x="602.5"
+         y="327.25"
+         id="text104701">&lt;&lt;Extend&gt;&gt;</text>
+    </g>
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-6"
+       d="M 38 187.78 L 257.77 195.29"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path104705" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-6"
+       d="M 249.73 199.51 L 258.88 195.32 L 250.04 190.52"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104707" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-7"
+       d="M 328.74 177 L 451.07 59.05"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="4"
+       pointer-events="stroke"
+       id="path104709" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-7"
+       d="M 447.4 70.92 L 451.88 58.28 L 439.07 62.29"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104711" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-7"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="11px"
+       id="g104715">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-7"
+         x="383.21"
+         y="114.11"
+         id="text104713">&lt;&lt;Include&gt;&gt;</text>
+    </g>
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-8"
+       d="M 333.61 217 L 447.12 305.62"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="4"
+       pointer-events="stroke"
+       id="path104717" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-8"
+       d="M 434.85 303.66 L 448 306.31 L 442.23 294.2"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104719" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-8"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="11px"
+       id="g104723">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-8"
+         x="396.81"
+         y="258.04"
+         id="text104721">&lt;&lt;Include&gt;&gt;</text>
+    </g>
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-9"
+       d="M 537.24 333.25 L 670 333.25"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="4"
+       pointer-events="stroke"
+       id="path104725" />
+    <path
+       cell-id="C6R-QZl_tuQVO8GFvPIy-9"
+       d="M 548.12 327.25 L 536.12 333.25 L 548.12 339.25"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path104727" />
+    <g
+       cell-id="C6R-QZl_tuQVO8GFvPIy-9"
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="11px"
+       id="g104731">
+      <text
+         cell-id="C6R-QZl_tuQVO8GFvPIy-9"
+         x="602.5"
+         y="327.25"
+         id="text104729">&lt;&lt;Extend&gt;&gt;</text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif"
+     x="0.89632136"
+     y="17.652174"
+     id="text106779"><tspan
+       sodipodi:role="line"
+       id="tspan106777"
+       x="0.89632136"
+       y="17.652174">Ricerca Use Case</tspan></text>
+</svg>
